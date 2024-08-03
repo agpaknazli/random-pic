@@ -31,14 +31,14 @@ body {
   }
   
   .button{
-    width:13%;
+    width:17%;
     text-align: center;
     background-color: rgba(220, 108, 218, 0.327);
     position: absolute;
     bottom: 35%;
     left: 50%;
     transform: translate(-50%, 50%);
-    font-size: 10px;
+    font-size: 12px;
     font-weight:700;
     border-radius: 50px;
     padding: 1rem;
