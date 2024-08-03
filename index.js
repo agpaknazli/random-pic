@@ -77,7 +77,7 @@ function container(){
 }
 
 function startContainer(){
-    isStart=setInterval(container,800); // 8 saniyede bir çalışır
+    isStart=setInterval(container,1040); // 8 saniyede bir çalışır
 };
 
 function stopContainer(){
