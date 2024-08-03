@@ -31,11 +31,12 @@ body {
   }
   
   .button{
-    width:30%;
+    width:13%;
     text-align: center;
     background-color: rgba(220, 108, 218, 0.327);
     position: absolute;
-    bottom:2rem;
+    bottom:7rem;
+    left: 21rem;
     font-size: 10px;
     font-weight:700;
     border-radius: 50px;
