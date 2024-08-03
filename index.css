@@ -35,7 +35,7 @@ body {
     text-align: center;
     background-color: rgba(220, 108, 218, 0.327);
     position: absolute;
-    bottom: 25%;
+    bottom: 35%;
     left: 50%;
     transform: translate(-50%, 50%);
     font-size: 10px;
